@@ -1,1 +1,13 @@
 /* your styles go here */
+/* .project-link {
+  margin: 0 auto;
+}
+.col-md-4 {
+  display: flex;
+  flex-direction: column;
+} */
+.project-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
